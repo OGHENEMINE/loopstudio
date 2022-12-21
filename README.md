@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: ([https://your-live-site-url.com](https://singular-klepon-33d999.netlify.app/))
 
 ## My process
  I took the time to go through design images, study those then i got to work. I had to set up my vite app with (npm create vite@latest) and also set up tailwind for use in this project.
