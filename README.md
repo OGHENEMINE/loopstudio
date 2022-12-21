@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/assets/loopstudio%20screenshot.png)
+![Desktop Screenshot](./src/assets/loopstudio%20screenshot.png)
 
 <!-- MOBILE SCREENSHOOTS -->
-![](./src/assets/Screenshot_20221221-013837.png)
-![](./src/assets/Screenshot_20221221-013843.png)
-![](./src/assets/Screenshot_20221221-013849.png)
-![](./src/assets/Screenshot_20221221-013852.png)
+![Mobile Screenshot](./src/assets/Screenshot_20221221-013837.png)
+![Mobile Screenshot](./src/assets/Screenshot_20221221-013843.png)
+![Mobile Screenshot](./src/assets/Screenshot_20221221-013849.png)
+![Mobile Screenshot](./src/assets/Screenshot_20221221-013852.png)
 
 ### Links
 
@@ -50,7 +50,7 @@ Users should be able to:
 
 ### What I learned
 
-While building this project, I got to work on my css skills using absolute positioning and grid. I also working on my website repsonsivness skill.
+While building this project, I got to work on my css skills using absolute positioning and grid. I also worked on repsonsivness more.
 
 ## Author
 
