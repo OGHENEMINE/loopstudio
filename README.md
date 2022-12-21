@@ -29,10 +29,10 @@ Users should be able to:
 ![Desktop Screenshot](./src/assets/loopstudio%20screenshot.png)
 
 <!-- MOBILE SCREENSHOOTS -->
-![Mobile Screenshot](./src/assets/Screenshot_20221221-013837.png)
-![Mobile Screenshot](./src/assets/Screenshot_20221221-013843.png)
-![Mobile Screenshot](./src/assets/Screenshot_20221221-013849.png)
-![Mobile Screenshot](./src/assets/Screenshot_20221221-013852.png)
+![Mobile Screenshot](/assets/Screenshot_20221221-013837.png)
+![Mobile Screenshot](/assets/Screenshot_20221221-013843.png)
+![Mobile Screenshot](/assets/Screenshot_20221221-013849.png)
+![Mobile Screenshot](/assets/Screenshot_20221221-013852.png)
 
 ### Links
 
