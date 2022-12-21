@@ -24,16 +24,6 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
-
-![Desktop Screenshot](./src/assets/loopstudio%20screenshot.png)
-
-<!-- MOBILE SCREENSHOOTS -->
-![Mobile Screenshot](./assets/Screenshot_20221221-013837.png)
-![Mobile Screenshot](./assets/Screenshot_20221221-013843.png)
-![Mobile Screenshot](./assets/Screenshot_20221221-013849.png)
-![Mobile Screenshot](./assets/Screenshot_20221221-013852.png)
-
 ### Links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
